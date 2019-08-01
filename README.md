@@ -1,4 +1,4 @@
-# [NaivNuu`](http://forbetterweb.com/) - [Прикинь, я создал его](http://forbetterweb.com/blog/small-business-html-bootstrap/)
+# [NaivNuu`](https://www.youtube.com/channel/UC9VzYSFzvsnMolbC03oMV8A?view_as=subscriber) - [Прикинь, я создал его]
 
 
 ## А ты лох:
