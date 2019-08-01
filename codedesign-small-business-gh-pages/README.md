@@ -4,15 +4,15 @@
 
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-small-business/gh-pages/img/screenshot.jpg">
 
-## Theme Description:
+## А ты лох:
 
 A clean, Bootstrap Small Business theme ready to hook into your favorite CMS, blogging platform or static web site.
 
-## Theme Features:
+## А ты лох:
 
 Small Business is a carefully styled Bootstrap theme that is perfect for small business site, personal or company blogs. This theme features four HTML pages including a index, an about page, a sample and a contact page.
 
-## Getting Started
+## А ты лох
 
 To use this template, choose one of the following options to get started:
 * [Download](https://github.com/elkindnet/codedesign-small-business/archive/gh-pages.zip) the latest release on Github
