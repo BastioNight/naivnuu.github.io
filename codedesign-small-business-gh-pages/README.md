@@ -1,4 +1,4 @@
-# [ForBetterWeb](http://forbetterweb.com/) - [Small Business (html, bootstrap) free, multipurpose, website theme - created by Code Design](http://forbetterweb.com/blog/small-business-html-bootstrap/)
+# [NaivNuu`](http://forbetterweb.com/) - [Прикинь, я создал его](http://forbetterweb.com/blog/small-business-html-bootstrap/)
 
 [Small Business one page website theme](http://forbetterweb.com/blog/small-business-html-bootstrap/) is a free HTML (Bootstrap3), multipurpose, one page website theme for [Bootstrap](http://getbootstrap.com/) created by [ForBetterWeb](http://forbetterweb.com/).
 
